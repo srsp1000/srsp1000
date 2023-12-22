@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently studying Btech CSE at Bennett University 
+I'm Currently learning web development 
+I'm looking to contribute to open-source projects
 
 <!--
 **srsp1000/srsp1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
