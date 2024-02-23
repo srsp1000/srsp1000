@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I'm currently studying Btech CSE at Bennett University 
 - 🌱 I’m currently learning Web Development and DSA 
 - 👯 I'm looking to collaborate on open-source projects
